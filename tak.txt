@@ -1,0 +1,2 @@
+Could not HEAD 'http://nexus.ngknn.local:8081/repository/maven-public/com/android/library/com.android.library.gradle.plugin/8.13.2/com.android.library.gradle.plugin-8.13.2.pom'. Received status code 502 from server: Bad Gateway
+
